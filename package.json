@@ -1,0 +1,29 @@
+{
+  "name": "gisearch",
+  "version": "1.0.0",
+  "description": "async file search",
+  "main": "index.js",
+  "scripts": {
+    "test": "gisearch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILLfame/search.git"
+  },
+  "keywords": [
+    "search",
+    "file",
+    "directory",
+    "js",
+    "nodejs"
+  ],
+  "bin": {
+    "gisearch": "index.js"
+  },
+  "author": "Golub Illya <imGolub24@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILLfame/search/issues"
+  },
+  "homepage": "https://github.com/ILLfame/search#readme"
+}
